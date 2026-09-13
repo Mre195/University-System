@@ -1,0 +1,42 @@
+C:\Users\moath\Desktop\ASP.net Projects\X_University\UniversitySystem.Repository\bin\Debug\net10.0\UniversitySystem.Repository.deps.json
+C:\Users\moath\Desktop\ASP.net Projects\X_University\UniversitySystem.Repository\bin\Debug\net10.0\UniversitySystem.Repository.runtimeconfig.json
+C:\Users\moath\Desktop\ASP.net Projects\X_University\UniversitySystem.Repository\bin\Debug\net10.0\UniversitySystem.Repository.dll
+C:\Users\moath\Desktop\ASP.net Projects\X_University\UniversitySystem.Repository\bin\Debug\net10.0\UniversitySystem.Repository.pdb
+C:\Users\moath\Desktop\ASP.net Projects\X_University\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.csproj.AssemblyReference.cache
+C:\Users\moath\Desktop\ASP.net Projects\X_University\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moath\Desktop\ASP.net Projects\X_University\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.AssemblyInfoInputs.cache
+C:\Users\moath\Desktop\ASP.net Projects\X_University\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.AssemblyInfo.cs
+C:\Users\moath\Desktop\ASP.net Projects\X_University\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.csproj.CoreCompileInputs.cache
+C:\Users\moath\Desktop\ASP.net Projects\X_University\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.dll
+C:\Users\moath\Desktop\ASP.net Projects\X_University\UniversitySystem.Repository\obj\Debug\net10.0\refint\UniversitySystem.Repository.dll
+C:\Users\moath\Desktop\ASP.net Projects\X_University\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.pdb
+C:\Users\moath\Desktop\ASP.net Projects\X_University\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.genruntimeconfig.cache
+C:\Users\moath\Desktop\ASP.net Projects\X_University\UniversitySystem.Repository\obj\Debug\net10.0\ref\UniversitySystem.Repository.dll
+C:\Users\moath\Desktop\University\UniversitySystem\UniversitySystem.Repository\bin\Debug\net10.0\UniversitySystem.Repository.deps.json
+C:\Users\moath\Desktop\University\UniversitySystem\UniversitySystem.Repository\bin\Debug\net10.0\UniversitySystem.Repository.runtimeconfig.json
+C:\Users\moath\Desktop\University\UniversitySystem\UniversitySystem.Repository\bin\Debug\net10.0\UniversitySystem.Repository.dll
+C:\Users\moath\Desktop\University\UniversitySystem\UniversitySystem.Repository\bin\Debug\net10.0\UniversitySystem.Repository.pdb
+C:\Users\moath\Desktop\University\UniversitySystem\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.csproj.AssemblyReference.cache
+C:\Users\moath\Desktop\University\UniversitySystem\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moath\Desktop\University\UniversitySystem\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.AssemblyInfoInputs.cache
+C:\Users\moath\Desktop\University\UniversitySystem\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.AssemblyInfo.cs
+C:\Users\moath\Desktop\University\UniversitySystem\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.csproj.CoreCompileInputs.cache
+C:\Users\moath\Desktop\University\UniversitySystem\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.dll
+C:\Users\moath\Desktop\University\UniversitySystem\UniversitySystem.Repository\obj\Debug\net10.0\refint\UniversitySystem.Repository.dll
+C:\Users\moath\Desktop\University\UniversitySystem\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.pdb
+C:\Users\moath\Desktop\University\UniversitySystem\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.genruntimeconfig.cache
+C:\Users\moath\Desktop\University\UniversitySystem\UniversitySystem.Repository\obj\Debug\net10.0\ref\UniversitySystem.Repository.dll
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Repository\bin\Debug\net10.0\UniversitySystem.Repository.deps.json
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Repository\bin\Debug\net10.0\UniversitySystem.Repository.runtimeconfig.json
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Repository\bin\Debug\net10.0\UniversitySystem.Repository.dll
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Repository\bin\Debug\net10.0\UniversitySystem.Repository.pdb
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.csproj.AssemblyReference.cache
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.AssemblyInfoInputs.cache
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.AssemblyInfo.cs
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.csproj.CoreCompileInputs.cache
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.dll
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Repository\obj\Debug\net10.0\refint\UniversitySystem.Repository.dll
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.pdb
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Repository\obj\Debug\net10.0\UniversitySystem.Repository.genruntimeconfig.cache
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Repository\obj\Debug\net10.0\ref\UniversitySystem.Repository.dll

@@ -1,11 +1,5 @@
 <Solution>
-  <Project Path="UniversitySystem.Api/UniversitySystem.Api.csproj">
-    <Build Solution="Debug|*" Project="false" />
-  </Project>
-  <Project Path="UniversitySystem.Repository/UniversitySystem.Repository.csproj">
-    <Build Solution="Debug|*" Project="false" />
-  </Project>
-  <Project Path="UniversitySystem.Services/UniversitySystem.Services.csproj">
-    <Build Solution="Debug|*" Project="false" />
-  </Project>
+  <Project Path="UniversitySystem.Api/UniversitySystem.Api.csproj" />
+  <Project Path="UniversitySystem.Repository/UniversitySystem.Repository.csproj" />
+  <Project Path="UniversitySystem.Services/UniversitySystem.Services.csproj" />
 </Solution>

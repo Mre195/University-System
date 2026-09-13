@@ -1,0 +1,15 @@
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Services\bin\Debug\net10.0\UniversitySystem.Services.deps.json
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Services\bin\Debug\net10.0\UniversitySystem.Services.dll
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Services\bin\Debug\net10.0\UniversitySystem.Services.pdb
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Services\bin\Debug\net10.0\UniversitySystem.Repository.dll
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Services\bin\Debug\net10.0\UniversitySystem.Repository.pdb
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Services\obj\Debug\net10.0\UniversitySystem.Services.csproj.AssemblyReference.cache
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Services\obj\Debug\net10.0\UniversitySystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Services\obj\Debug\net10.0\UniversitySystem.Services.AssemblyInfoInputs.cache
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Services\obj\Debug\net10.0\UniversitySystem.Services.AssemblyInfo.cs
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Services\obj\Debug\net10.0\UniversitySystem.Services.csproj.CoreCompileInputs.cache
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Services\obj\Debug\net10.0\Universi.DD228AE8.Up2Date
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Services\obj\Debug\net10.0\UniversitySystem.Services.dll
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Services\obj\Debug\net10.0\refint\UniversitySystem.Services.dll
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Services\obj\Debug\net10.0\UniversitySystem.Services.pdb
+C:\Users\moath\Desktop\University\University System\UniversitySystem.Services\obj\Debug\net10.0\ref\UniversitySystem.Services.dll
